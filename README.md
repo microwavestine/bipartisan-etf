@@ -16,4 +16,6 @@ All PR submissions welcome.
 
 - Are there keywords other than PLC(a), Inc. etc that the script is not filtering properly? Feel free to edit merge_etfs.py conditional statements that filter them out. 
 - What's the correlation between two ETFs like?
+- Track Bipartisan ETF stock prices.
+- Make an equal distribution Bipartisn ETF portfolio, and compare performances with other ETFs.
 - And any other insights are welcome.
